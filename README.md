@@ -18,7 +18,7 @@
 
 ```
 
-<img src="pf.png" align="left" width="210" height="210">
+<img src="pf.png" align="left" width="205" height="205">
 
 ```javascript
 

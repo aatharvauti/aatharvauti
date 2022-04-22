@@ -30,7 +30,7 @@
 <img alt="Telegram" src="https://img.shields.io/badge/INSTAGRAM-DB435A.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> 
 </a>
 
-![Discord](https://img.shields.io/badge/_0x447H4RV4U71_7459-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+![Discord](https://img.shields.io/badge/_0x4U71_7459-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
 
 ## TechStack

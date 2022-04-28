@@ -5,11 +5,11 @@
 ## Code, Hack, Repeat ;) 
 
 - 🎓 Cybersecurity Engineering Undergrad'24
-- Proficient in 🐍 Python, ☕ Java and 💻 Bash
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Proficient in 🐍 Python, ☕ Java and 💻 Bash
 - 🌱 Currently Learning Machine Learning with Python
 - ❤️ To Play CTFs on [TryHackMe](https://tryhackme.com/p/aatharvauti), HackTheBox, and OverTheWire
 - 🤝🏻 Looking to Collaborate on Python and Java Projects
-- Coder By The Day </>, 🎮 Gamer At Night
+- </> Coder By The Day, 🎮 Gamer At Night
 - 💬 AMA Related to Linux, Cybersecurity, Blockchain Or AI/ML
 
 ## Socials

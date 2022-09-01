@@ -1,8 +1,22 @@
-![Header](Auti.png)
+
+![Header GIF](header.gif)
+
+<!-- ![Header](Auti.png) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aatharvauti&label=PROFILE+VIEWS)
 
 ## Code, Hack, Repeat ;) 
+
+<!-- py js git code  node firebase andro app  -->
+
+<img src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="40">
+<img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/200.webp" height="40"> 
+<img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" height="40"> 
+<img src="https://media0.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" height="40">
+<img src="https://media4.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp" height="40">
+<img src="https://media3.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.webp" height="40"> 
+<img src="https://media4.giphy.com/media/VgTtXyj5YjVFieCYM2/200w.webp" height="40">
+
 
 - 🎓 Cybersecurity Engineering Undergrad'24
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Proficient in 🐍 Python, ☕ Java and 💻 Bash
@@ -10,7 +24,7 @@
 - ❤️ To Play CTFs on [TryHackMe](https://tryhackme.com/p/aatharvauti), HackTheBox, and OverTheWire
 - 🤝🏻 Looking to Collaborate on Python and Java Projects
 - </> Coder By The Day, 🎮 Gamer At Night
-- 💬 AMA Related to Linux, Cybersecurity, Blockchain Or AI/ML
+- 💬 AMA Related to Linux, Cybersecurity, Or AI/ML
 
 ## Socials
 
@@ -30,7 +44,7 @@
 <img alt="Telegram" src="https://img.shields.io/badge/INSTAGRAM-DB435A.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> 
 </a>
 
-![Discord](https://img.shields.io/badge/_0x4U71_7459-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+![Discord](https://img.shields.io/badge/_0x4U71_HASH_6521-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
 
 ## TechStack
@@ -50,7 +64,7 @@
 ![Arch BTW](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-## Metrics 📈
+## GitHub Metrics 📈
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aatharvauti&theme=tokyonight_duo&hide_border=true&date_format=n%2Fj%5B%2FY%5D)
 

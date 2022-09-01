@@ -9,13 +9,7 @@
 
 <!-- py js git code  node firebase andro app  -->
 
-<img src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="40">
-<img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/200.webp" height="40"> 
-<img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" height="40"> 
-<img src="https://media0.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" height="40">
-<img src="https://media4.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp" height="40">
-<img src="https://media3.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.webp" height="40"> 
-<img src="https://media4.giphy.com/media/VgTtXyj5YjVFieCYM2/200w.webp" height="40">
+<img src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="40"> <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/200.webp" height="40">  <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" height="40">  <img src="https://media0.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" height="40"> <img src="https://media4.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp" height="40"> <img src="https://media3.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.webp" height="40">  <img src="https://media4.giphy.com/media/VgTtXyj5YjVFieCYM2/200w.webp" height="40">
 
 
 - 🎓 Cybersecurity Engineering Undergrad'24

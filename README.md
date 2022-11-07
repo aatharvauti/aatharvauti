@@ -50,15 +50,6 @@
 </p>
 
 ⠀
-⠀
-<h2 align="center"><img src="https://i.giphy.com/media/8N2wP9LffgeLz3vwcc/giphy.webp" height="40"> Last Played </h2>
-<p align="center">
-<a target="blank" href="https://spotify-github-profile.vercel.app/api/view.svg?uid=ey0t7x68kxelqs3z15mi5ufm5&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=ey0t7x68kxelqs3z15mi5ufm5&cover_image=true&theme=compact&show_offline=false&background_color=121212">
-</a>
-</p>
-
-⠀
 <h2 align="center"><img src="https://i.giphy.com/media/uMg1wT2x01jBOMk2SS/200.webp" width="75"> Metrics </h2>
 ⠀
 ⠀

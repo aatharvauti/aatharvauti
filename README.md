@@ -4,13 +4,13 @@
 
 I am a final-year college student pursuing my **Bachelor of Engineering (B.E.)** in Cyber Security degree at **Mumbai University**. I am an enthusiastic Programmer and a Networking geek with experience working as a **Cybersecurity Researcher and Developer**.
 
-<p align="center"><img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" height="60"> </p>
+<p align="center"><img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" height="160"> </p>
 
 I recently co-founded **CyHEX Infotech Private Limited**, a startup dedicated to providing development, products, and services that make a difference in the field of cybersecurity. We are constantly learning and staying up-to-date with the latest trends and technologies to provide our clients with the best possible solutions. 
 
 For business queries and collaborations, drop an email to [contact@cyhex.co](mailto:contact@cyhex.co)
 
-<p align="center"><img src="https://media4.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" height="80"></p>
+<p align="center"><img src="https://media4.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" height="180"></p>
 
 ### Wanna send a message?
 

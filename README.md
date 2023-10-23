@@ -42,7 +42,7 @@ For business queries and collaborations, drop an email to [contact@cyhex.co](mai
 </p>
 
 ⠀
-<h2 align="center"><img src="https://i.giphy.com/media/uMg1wT2x01jBOMk2SS/200.webp" width="75"> </h2>
+<h2 align="center"><img src="https://i.giphy.com/media/uMg1wT2x01jBOMk2SS/200.webp" width="175"> </h2>
 ⠀
 ⠀
 <p align="center">

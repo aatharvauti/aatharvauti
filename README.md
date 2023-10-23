@@ -1,22 +1,18 @@
-<h1 align=center> 
-<b> 👋  Hello, World! </b>
-</h1>
+<h1 align=center> <b> 👋  Hello, World! </b> </h1>
 
-<p align=center>
-<b> ≽^•⩊•^≼</b>
- </p>
+<p align=center> <b> ≽^•⩊•^≼</b> </p>
 
 I am a final-year college student pursuing my **Bachelor of Engineering (B.E.)** in Cyber Security degree at **Mumbai University**. I am an enthusiastic Programmer and a Networking geek with experience working as a **Cybersecurity Researcher and Developer**.
 
-<h2 align="center"><img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" height="60"> </h2>
+<p align="center"><img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" height="60"> </p>
 
 I recently co-founded **CyHEX Infotech Private Limited**, a startup dedicated to providing development, products, and services that make a difference in the field of cybersecurity. We are constantly learning and staying up-to-date with the latest trends and technologies to provide our clients with the best possible solutions. 
 
 For business queries and collaborations, drop an email to [contact@cyhex.co](mailto:contact@cyhex.co)
 
-<h2 align="center"><img src="https://media4.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" height="80"></h2>
+<p align="center"><img src="https://media4.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" height="80"></p>
 
-#### Wanna send a message?
+### Wanna send a message?
 
 [hi@auti.dev](mailto:hi@auti.dev)  
 [auti@cyhex.co](mailto:auti@cyhex.co)  
@@ -26,15 +22,12 @@ For business queries and collaborations, drop an email to [contact@cyhex.co](mai
 [Telegram](https://t.me/aatharvauti)  
 [Whatsapp](https://wa.me/+918452861970)
 
-#### Check out my socials!
+### Check out my socials!
 
 [GitHub](https://github.com/aatharvauti)  
 [LinkedIn](https://linkedin.com/in/auti)  
 [X Twitter](https://x.com/aatharvauti)  
 [Instagram](https://instagram.com/aatharvauti)
-
-
-⠀
 
 
 <p align="center">

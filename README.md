@@ -1,48 +1,47 @@
+<h1 align=center> 
+<b> 👋  Hello, World! </b>
+</h1>
 
-![Header GIF](header.gif)
-⠀
-<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=aatharvauti&label=Meow+Visits&color=blueviolet&style=for-the-badge"> </h1>
-⠀
-⠀
-<h1 align="center"> About Me ^_^ </h1> 
-<p align="center">
-<img src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="40"> <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/200.webp" height="40">  <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" height="40">  <img src="https://media0.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" height="40"> <img src="https://media4.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp" height="40"> <img src="https://media3.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.webp" height="40">  <img src="https://media4.giphy.com/media/VgTtXyj5YjVFieCYM2/200w.webp" height="40">
-</p>
+<p align=center>
+<b> ≽^•⩊•^≼</b>
+ </p>
 
-- 🎓 Cybersecurity Engineering Undergrad'24
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Proficient in 🐍 Python, ☕ Java and 💻 Bash
-- 🌱 Currently Learning Machine Learning with Python
-- ❤️ To Play CTFs on [TryHackMe](https://tryhackme.com/p/aatharvauti), HackTheBox, and OverTheWire
-- 🤝🏻 Looking to Collaborate on Python and Java Projects
-- </> Coder By The Day, 🎮 Gamer At Night
-- 💬 AMA Related to Linux, Cybersecurity, Or AI/ML
+I am a final-year college student pursuing my **Bachelor of Engineering (B.E.)** in Cyber Security degree at **Mumbai University**. I am an enthusiastic Programmer and a Networking geek with experience working as a **Cybersecurity Researcher and Developer**.
 
-⠀
+<h2 align="center"><img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" height="60"> </h2>
 
-<h2 align="center"><img src="https://media0.giphy.com/media/XfN8qiCOWCFg29CiGQ/200w.webp?cid=ecf05e47r3esflaqrsh3c8q6s5kket9zm3sj7wrod407n8pr&rid=200w.webp&ct=s" width="55"> Socials </h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/aatharvauti/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin">
-</a> <a href="https://twitter.com/aatharvauti" target="blank">
-<img src="https://skillicons.dev/icons?i=twitter">
-</a> <a href="https://instagram.com/aatharvauti" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram">
-</a> <a href="https://t.me/aatharvauti" target="blank">
-<img src="telegram.png" width="50" height="50">
-</a> <a href="https://discordapp.com/users/595910162699649034" target="blank">
-<img src="https://skillicons.dev/icons?i=discord">
-</a>
-</p>
+I recently co-founded **CyHEX Infotech Private Limited**, a startup dedicated to providing development, products, and services that make a difference in the field of cybersecurity. We are constantly learning and staying up-to-date with the latest trends and technologies to provide our clients with the best possible solutions. 
+
+For business queries and collaborations, drop an email to [contact@cyhex.co](mailto:contact@cyhex.co)
+
+<h2 align="center"><img src="https://media4.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" height="80"></h2>
+
+#### Wanna send a message?
+
+[hi@auti.dev](mailto:hi@auti.dev)  
+[auti@cyhex.co](mailto:auti@cyhex.co)  
+[PGP Key](../auti.pub)
+
+[Discord (auti.dev)](https://discordapp.com/channels/@me/631478564411146262/)  
+[Telegram](https://t.me/aatharvauti)  
+[Whatsapp](https://wa.me/+918452861970)
+
+#### Check out my socials!
+
+[GitHub](https://github.com/aatharvauti)  
+[LinkedIn](https://linkedin.com/in/auti)  
+[X Twitter](https://x.com/aatharvauti)  
+[Instagram](https://instagram.com/aatharvauti)
+
 
 ⠀
-<h2 align="center"><img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" height="60"> Languages </h2>
+
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,go,bash,javascript,nodejs,electron,firebase,express,react,scss,c,java&perline=6">
 </p>
 
-⠀
-<h2 align="center"><img src="https://media4.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" height="80"> Tools </h2>
+
 <p align="center">
 <a href="#">
 <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,django,fastapi,tensorflow,gcp,aws,azure,mysql,graphql,redis,mongodb,linux,arduino,raspberrypi&perline=8">
@@ -50,7 +49,7 @@
 </p>
 
 ⠀
-<h2 align="center"><img src="https://i.giphy.com/media/uMg1wT2x01jBOMk2SS/200.webp" width="75"> Metrics </h2>
+<h2 align="center"><img src="https://i.giphy.com/media/uMg1wT2x01jBOMk2SS/200.webp" width="75"> </h2>
 ⠀
 ⠀
 <p align="center">

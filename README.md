@@ -1,6 +1,6 @@
 <h1 align=center> <b> 👋  Hello, World! </b> </h1>
 
-<p align=center> <b> ≽^•⩊•^≼</b> </p>
+<p align=center> <b> ≽^._.^≼∫ </b> </p>
 
 I am a final-year college student pursuing my **Bachelor of Engineering (B.E.)** in Cyber Security degree at **Mumbai University**. I am an enthusiastic Programmer and a Networking geek with experience working as a **Cybersecurity Researcher and Developer**.
 

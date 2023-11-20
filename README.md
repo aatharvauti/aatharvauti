@@ -47,7 +47,7 @@ For business queries and collaborations, drop an email to [contact@cyhex.co](mai
 ⠀
 <p align="center">
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=aatharvauti&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="aatharvauti's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=aatharvauti&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="aatharvauti's GitHub stats" />
 </a>
 </p>
 

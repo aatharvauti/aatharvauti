@@ -13,6 +13,7 @@ My experience spans across different areas of cybersecurity, including threat in
 For business queries and collaborations, drop an email to [auti@cyhex.co](mailto:auti@cyhex.co)
 
 <p align="center"><img src="https://media4.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" height="180"></p>
+
 #### Wanna send a message?
 
 [hi@auti.dev](mailto:hi@auti.dev)  

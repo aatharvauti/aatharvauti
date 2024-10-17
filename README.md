@@ -2,7 +2,7 @@
 
 <p align=center> <b> ≽^._.^≼∫ </b> </p>
 
-I am a passionate cybersecurity enthusiast currently pursuing a Master of Science in Cybersecurity Engineering at the [**University of Southern California**](mailto:auti@usc.edu). I hold a Bachelor of Engineering in Cybersecurity with Honors in AI & ML from Mumbai University. With a strong foundation in programming and networking, I have honed my skills through various research and development projects, including my tenure as a reverse engineer at VJTI’s Centre of Excellence in Complex Networks and Data Science, where I focused on ARM-based reverse engineering.
+I am a passionate cybersecurity enthusiast currently pursuing a Master of Science in Cybersecurity Engineering at the [**University of Southern California**](mailto:auti@usc.edu). I hold a Bachelor of Engineering in Cybersecurity with Honors in AI & ML from Mumbai University. With a strong foundation in programming and networking, I have honed my skills through various research and development projects, including my tenure as a reverse engineer at VJTI’s Centre of Excellence, where I focused on Cyber Physical Systems and ARM-based reverse engineering.
 
 <p align="center"><img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" height="160"> </p>
 

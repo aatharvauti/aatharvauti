@@ -6,11 +6,11 @@ I am a passionate cybersecurity enthusiast currently pursuing a Master of Scienc
 
 <p align="center"><img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" height="160"> </p>
 
-In addition to my academic journey, I co-founded [**CyHEX Infotech Private Limited**](https://cyhex.co), a startup dedicated to advancing cybersecurity solutions through innovative development, products, and services. Our mission is to stay ahead of the curve by continuously learning and adapting to the latest trends and technologies, ensuring we provide our clients with cutting-edge solutions that make a real difference in the field of cybersecurity.
+In addition to my academic journey, I previously co-founded [**CyHEX Infotech Private Limited**](https://cyhex.co), a startup dedicated to advancing cybersecurity solutions through innovative development, products, and services. Our mission is to stay ahead of the curve by continuously learning and adapting to the latest trends and technologies, ensuring we provide our clients with cutting-edge solutions that make a real difference in the field of cybersecurity.
 
 My experience spans across different areas of cybersecurity, including threat intelligence, network security, and ethical hacking. I am committed to making a positive impact in the cybersecurity domain, leveraging my skills and experience to contribute to a safer digital world.
 
-For business queries and collaborations, drop an email to [auti@cyhex.co](mailto:auti@cyhex.co)
+I am not associated with my previous startup, but for business queries and collaborations, drop an email to [contact@cyhex.co](mailto:contact@cyhex.co)
 
 <p align="center"><img src="https://media4.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" height="180"></p>
 

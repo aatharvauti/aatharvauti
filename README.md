@@ -17,13 +17,11 @@ I am not associated with my previous startup, but for business queries and colla
 #### Wanna send a message?
 
 [hi@auti.dev](mailto:hi@auti.dev)  
-[auti@cyhex.co](mailto:auti@cyhex.co)
 [auti@usc.edu](mailto:auti@usc.edu)  
 [PGP Key](../auti.pub)
 
 [Discord (auti.dev)](https://discordapp.com/channels/@me/631478564411146262/)  
 [Telegram](https://t.me/aatharvauti)  
-[Whatsapp](https://wa.me/+918452861970)
 
 #### Check out my socials!
 
@@ -36,6 +34,7 @@ I am not associated with my previous startup, but for business queries and colla
 
 [Unified Payments Interface](upi://pay?pa=auti@sbi)  
 [Paypal](https://paypal.me/aatharvauti)
+[Venmo](https://venmo.com/u/aatharvauti)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,go,bash,javascript,nodejs,electron,firebase,express,react,scss,c,java&perline=6">
@@ -64,12 +63,5 @@ I am not associated with my previous startup, but for business queries and colla
 <img src="https://streak-stats.demolab.com/?user=aatharvauti&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="aatharvauti's streak stats" />
 </a>
 </p>
-
-
-
-<p align="center">
-<a href="#">
-<img src="https://metrics.lecoq.io/aatharvauti?template=classic&isocalendar=0&languages=1&lines=1&stars=1&followup=1&people=1&repositories=1&tweets=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.ignored=html&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=true&people.size=28&people.types=followers%2C%20following&people.thanks=mihir-m024%2C%20Dhruvil10%2C%20Vivek-mishra-2002%2C%20optimistic-ninja9090&people.shuffle=false&repositories=false&repositories.featured=python%2C%20dotfiles%2C%20resume%2C%20portfolio&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=America%2FNew_York" alt="Auti's Metrics (Reload the page if not visible)">
-</a>
 
 </p>

@@ -31,9 +31,8 @@ I am not associated with my previous startup, but for business queries and colla
 [Instagram](https://instagram.com/aatharvauti)
 
 #### Official Payments
-
-[Unified Payments Interface](upi://pay?pa=auti@sbi)  
-[Paypal](https://paypal.me/aatharvauti)
+ 
+[Paypal](https://paypal.me/aatharvauti)  
 [Venmo](https://venmo.com/u/aatharvauti)
 
 <p align="center">

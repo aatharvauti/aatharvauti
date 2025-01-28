@@ -57,10 +57,4 @@ I am not associated with my previous startup, but for business queries and colla
 </p>
 
 
-<p align="center">
-<a href="#">
-<img src="https://streak-stats.demolab.com/?user=aatharvauti&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="aatharvauti's streak stats" />
-</a>
-</p>
-
 </p>

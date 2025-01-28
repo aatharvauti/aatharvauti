@@ -2,11 +2,11 @@
 
 <p align=center> <b> ≽^._.^≼∫ </b> </p>
 
-I am a passionate cybersecurity enthusiast currently pursuing a Master of Science in Cybersecurity Engineering at the [**University of Southern California**](mailto:auti@usc.edu). I hold a Bachelor of Engineering in Cybersecurity with Honors in AI & ML from Mumbai University. With a strong foundation in programming and networking, I have honed my skills through various research and development projects, including my tenure as a reverse engineer at VJTI’s Centre of Excellence, where I focused on Cyber Physical Systems and ARM-based reverse engineering.
+I am a passionate cybersecurity enthusiast currently pursuing a Master of Science in Cybersecurity Engineering at the [**University of Southern California**](mailto:auti@usc.edu). I hold a Bachelor of Engineering in Cybersecurity with Minors in AI & ML from Mumbai University. With a strong foundation in programming and networking, I have honed my skills through various research and development projects, including my tenure as a reverse engineer at VJTI’s Centre of Excellence, where I focused on Cyber Physical Systems and ARM-based reverse engineering.
 
 <p align="center"><img src="https://media3.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" height="160"> </p>
 
-In addition to my academic journey, I previously co-founded [**CyHEX Infotech Private Limited**](https://cyhex.co), a startup dedicated to advancing cybersecurity solutions through innovative development, products, and services. Our mission is to stay ahead of the curve by continuously learning and adapting to the latest trends and technologies, ensuring we provide our clients with cutting-edge solutions that make a real difference in the field of cybersecurity.
+In addition to my academic journey, I previously co-founded [**CyHEX Infotech Private Limited**](https://cyhex.co), a startup dedicated to advancing cybersecurity solutions through innovative development, products, and services. Our mission is to stay ahead of the curve by continuously learning and adapting to the latest trends and technologies, ensuring we provide our clients with cutting-edge solutions that make a real difference in the field of cybersecurity. I am not associated with my former startup since August 2024, but you can check more about it on [cyhex.co](https://cyhex.co)
 
 My experience spans across different areas of cybersecurity, including threat intelligence, network security, and ethical hacking. I am committed to making a positive impact in the cybersecurity domain, leveraging my skills and experience to contribute to a safer digital world.
 
